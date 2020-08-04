@@ -29,9 +29,9 @@
 - 結論 Conclusion
 
 ## 第二部
-#### パズルを解く [本文]
+#### パズルを解く [[本文](https://ggim.un.org/IGIF/documents/Solving%20the%20Puzzle%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)]
 ### 統治ブロック
-#### 戦略経路1 統治と組織 Governance and Institutions [本文]
+#### 戦略経路1 統治と組織 Governance and Institutions [[本文](https://ggim.un.org/IGIF/documents/SP1%20-%20Governance%20and%20Institutions%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP1%20-%20Appendices%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)]
 #### 戦略経路2 政策と法律 Policy and Legal [本文]
 #### 戦略経路3 財務 Financial [本文]
 ### 技術ブロック
