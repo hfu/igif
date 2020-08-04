@@ -1,5 +1,5 @@
-# 統合地理空間情報枠組
-[統合地理空間情報枠組](https://ggim.un.org/IGIF/)は、世界銀行、国連統計部、英国、米国、豪州のプレイヤーが主導して作成した、国連 GGIM の成果文書。
+# 統合地理空間情報枠組 [[編集](https://github.com/hfu/igif/edit/gh-pages/index.md)]
+[統合地理空間情報枠組](https://ggim.un.org/IGIF/)は、世界銀行、国連統計部、英国、米国、豪州のプレイヤーが主導して作成した、国連 GGIM の成果文書。このページでは、2020年8月時点でアクセス可能な、コンサルテーション段階の文書へリンクしている。最終の文書は変更されることが予期される。
 
 ## 第一部
 ### 戦略枠組にアーチをかける [[本文](https://ggim.un.org/meetings/GGIM-committee/8th-Session/documents/Part%201-IGIF-Overarching-Strategic-Framework-24July2018.pdf)]
@@ -31,17 +31,20 @@
 ## 第二部
 #### パズルを解く [[本文](https://ggim.un.org/IGIF/documents/Solving%20the%20Puzzle%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)]
 ### 統治ブロック
+このブロックは米国在住の [Tim Trainor](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45985) が担当しているように見える。裏は取る必要があるだろう。
 #### 戦略経路1 統治と組織 Governance and Institutions [[本文](https://ggim.un.org/IGIF/documents/SP1%20-%20Governance%20and%20Institutions%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP1%20-%20Appendices%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)]
-#### 戦略経路2 政策と法律 Policy and Legal [本文]
-#### 戦略経路3 財務 Financial [本文]
+#### 戦略経路2 政策と法律 Policy and Legal [[本文](https://ggim.un.org/IGIF/documents/SP2-Policy-and-Legal-23Feb2020-GLOBAL-CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP2-%20Appendices-23Feb2020-GLOBAL-CONSULTATION.pdf)]
+#### 戦略経路3 財務 Financial [[本文](https://ggim.un.org/IGIF/documents/SP3-Financial-19Jun2020-GLOBAL-CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP3-Appendices-19Jun2020-GLOBAL-CONSULTATION.pdf)]
 ### 技術ブロック
-#### 戦略経路4 データ Data [本文]
-#### 戦略経路5 イノベーション Innovation [本文]
-#### 戦略経路6 規格 Standards [本文]
+このブロックは豪州在住の [Lesley Arnold](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45986) が担当しているように見える。裏は取る必要があるだろう。
+#### 戦略経路4 データ Data [[本文](https://ggim.un.org/IGIF/documents/SP4-Data_10Jan2020_GLOBAL_CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP4-Appendices-26Feb2020-GLOBAL-CONSULTATION.pdf)]
+#### 戦略経路5 イノベーション Innovation [本文] [補遺]
+#### 戦略経路6 規格 Standards [本文] [補遺]
 ### ひとブロック
-#### 戦略経路7 パートナーシップ Partnerships [本文]
-#### 戦略経路8 能力と教育 Capacity and Education [本文]
-#### 戦略経路9 コミュニケーションとかかわり Communication and Engagement [本文]
+このブロックは英国在住の [John Kedar](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45987) が担当しているように見える。裏は取る必要があるだろう。
+#### 戦略経路7 パートナーシップ Partnerships [本文] [補遺]
+#### 戦略経路8 能力と教育 Capacity and Education [本文] [補遺]
+#### 戦略経路9 コミュニケーションとかかわり Communication and Engagement [本文] [補遺]
 
 ## 第三部
 第三部は国別行動計画
