@@ -1,5 +1,5 @@
 # 統合地理空間情報枠組
-統合地理空間情報枠組は、世界銀行、国連統計部、英国、米国、豪州のプレイヤーが主導して作成した、国連 GGIM の成果文書。
+[統合地理空間情報枠組](https://ggim.un.org/IGIF/)は、世界銀行、国連統計部、英国、米国、豪州のプレイヤーが主導して作成した、国連 GGIM の成果文書。
 
 ## 第一部
 ### 戦略枠組にアーチをかける [[本文](https://ggim.un.org/meetings/GGIM-committee/8th-Session/documents/Part%201-IGIF-Overarching-Strategic-Framework-24July2018.pdf)]
