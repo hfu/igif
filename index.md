@@ -30,9 +30,50 @@
 
 ## 第二部
 #### パズルを解く [[本文](https://ggim.un.org/IGIF/documents/Solving%20the%20Puzzle%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)]
+1. Introduction
+2. Linkages to the NSDI
+3. Describing the Guide
+4. Validating the Guide
+5. How the Guide Will be Managed and Used
+6. Interrelated Actions
+7. Country-level Action Plans
+8. Benefits
+9. References
+
+このドキュメントは、内部的なルールを記述しているようだと認識しているところ。
+
 ### 統治ブロック
 このブロックは米国在住の [Tim Trainor](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45985) が担当しているように見える。裏は取る必要があるだろう。
 #### 戦略経路1 統治と組織 Governance and Institutions [[本文](https://ggim.un.org/IGIF/documents/SP1%20-%20Governance%20and%20Institutions%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP1%20-%20Appendices%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)]
+##### 本文
+- 1.1 Introduction
+- 1.2 Context and Rationale
+- 1.3 Approach
+- 1.4 Elements
+  - 1.4.1 Governance Model
+  - 1.4.2 Leadership
+  - 1.4.3 Value Proposition
+  - 1.4.4 Institutional Arrangements
+- 1.5 Guiding Principles
+- 1.6 Actions
+  - 1.6.1 Governing Board
+  - 1.6.2 Geospatial Coordination Unit
+  - 1.6.3 Specialist Working Groups
+  - 1.6.4 Governance Model
+  - 1.6.5 Strategic Alignment Study
+  - 1.6.6 Geospatial Information Management
+  - 1.6.7 Change Strategy
+  - 1.6.8 Country-level Action Plan
+  - 1.6.9 Monitoring and Evaluation
+  - 1.6.10 Success Indicators
+  - 1.6.11 Value Proposition Statement
+- 1.7 Deliverables
+- 1.8 Outcomes
+- 1.9 Resources
+- 1.10 References
+
+##### 補遺
+
 #### 戦略経路2 政策と法律 Policy and Legal [[本文](https://ggim.un.org/IGIF/documents/SP2-Policy-and-Legal-23Feb2020-GLOBAL-CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP2-%20Appendices-23Feb2020-GLOBAL-CONSULTATION.pdf)]
 #### 戦略経路3 財務 Financial [[本文](https://ggim.un.org/IGIF/documents/SP3-Financial-19Jun2020-GLOBAL-CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP3-Appendices-19Jun2020-GLOBAL-CONSULTATION.pdf)]
 ### 技術ブロック
