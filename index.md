@@ -73,8 +73,45 @@
 - 1.10 References
 
 ##### 補遺
+- 1.1 Steering Committee Charter Example
+- 1.2 Strategic Alignment Template
+- 1.3 Guidance for Vision, Mission and Goal Statements
+- 1.4 Country-level Action Plan Template
+- 1.5 Success Indicators Example
 
 #### 戦略経路2 政策と法律 Policy and Legal [[本文](https://ggim.un.org/IGIF/documents/SP2-Policy-and-Legal-23Feb2020-GLOBAL-CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP2-%20Appendices-23Feb2020-GLOBAL-CONSULTATION.pdf)]
+
+##### 本文
+- 2.1 Introduction
+- 2.2 Context and Rationale
+- 2.3 Approach
+- 2.4 Elements
+  - 2.4.1 Legislation
+  - 2.4.2 Policies, Norms and Guides
+  - 2.4.3 Data Protection, Licensing and Sharing
+  - 2.4.4 Governance and Accountability
+- 2.5 Guiding Principles
+- 2.6 Actions
+  - 2.6.1 Review Group
+  - 2.6.2 Review and Assessment
+  - 2.6.3 Gaps and Opportunities Analysis
+  - 2.6.4 Design and Develop
+  - 2.6.5 Date Sharing and Dissemination
+  - 2.6.6 Licensing Geospatial Information
+  - 2.6.7 Future-proofing
+  - 2.6.8 Intellectual Property Rights
+  - 2.6.9 Privacy and Data Protection
+  - 2.6.10 Liability Concerns
+  - 2.6.11 Sensitive Information
+  - 2.6.12 Impact Assessment
+  - 2.6.13 Compliance Strategy
+- 2.7 Deliverables
+- 2.8 Outcomes
+- 2.9 Resources
+- 2.10 References
+
+##### 補遺
+
 #### 戦略経路3 財務 Financial [[本文](https://ggim.un.org/IGIF/documents/SP3-Financial-19Jun2020-GLOBAL-CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP3-Appendices-19Jun2020-GLOBAL-CONSULTATION.pdf)]
 ### 技術ブロック
 このブロックは豪州在住の [Lesley Arnold](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45986) が担当しているように見える。裏は取る必要があるだろう。
