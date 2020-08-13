@@ -111,11 +111,77 @@
 - 2.10 References
 
 ##### 補遺
+- 2.1 Common Legal Terms
+- 2.2 Review and Assessment - Considerations
+- 2.3 Review and Assessment - Questions
+- 2.4 Use Case - An Example
+- 2.5 Gaps and Opportunities Analysis - Tabletop Exercise (forthcoming)
+- 2.6 Gaps Analysis Matrix
+- 2.7 Policy and Legal Instruments - Advantages and Disadvantages
+- 2.8 Assessing Fitness for Purpose for a Policy
+- 2.9 Managing Intellectural Property Rights
+- 2.10 Addressing Sensitive Information
 
 #### 戦略経路3 財務 Financial [[本文](https://ggim.un.org/IGIF/documents/SP3-Financial-19Jun2020-GLOBAL-CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP3-Appendices-19Jun2020-GLOBAL-CONSULTATION.pdf)]
+
+##### 本文
+- 3.1 Introduction
+- 3.2 Context and Rationale
+- 3.3 Approach
+- 3.4 Elements
+  - 3.4.1 Business Model
+  - 3.4.2 Opportunities
+  - 3.4.3 Investment
+  - 3.4.5 Benefits Realization
+- 3.5 Guiding Principles
+- 3.6 Actions
+  - 3.6.1 Financial Governance
+  - 3.6.2 Financial Accountability
+  - 3.6.3 Current Operating Environment
+  - 3.6.4 Current Business Model
+  - 3.6.5 Data Policy
+  - 3.6.6 Public Good
+  - 3.6.7 Desired Business Model
+  - 3.6.8 Financial Planning
+  - 3.6.9 Socio-Economic Impact Assessment
+  - 3.6.10 Business Case
+  - 3.6.11 Investment Appraisal
+  - 3.6.12 Annual Budget
+  - 3.6.13 Sources of Funding
+  - 3.6.14 Strategic Opportunities
+  - 3.6.15 Benefits Realization
+  - 3.6.16 Communicate Benefits
+- 3.7 Deliverables
+- 3.8 Outcomes
+- 3.9 Resources
+- 3.10 References
+
+##### 補遺
+- 3.1 Example of IGIF 'Current and Desired Future' Dual-response survey (forthcoming)
+- 3.2 Example of IGIF baseline survey (forthcoming)
+- 3.3 Example of World Bank/FAO SDI diagnostic tool (forthcoming)
+- 3.4 Example of a business model canvas
+- 3.5 Developing a business model for integrated geospatial information management - some considerations
+- 3.6 Examples of a geospatial program budget
+- 3.7 An example of Socio-economic Impact Assessment approach
+  - Attachment I Literature review on economic modeling of national geospatial information management
+  - Attachment II Literature review on economic modeling of Earth observation
+  - Attachement III Case Study - Albanian Integrated Land Management Program and Economic Analysis
+- 3.8 Components of a business case - five key perspectives
+  - Attachment IV Business case - Denmark Key Registers (Basic Data)
+  - Attachment V Preparation of the business case for the proposed ILMP in Albania
+- 3.9 Developing an annual budget - some considerations
+- 3.10 Possible financing models
+  - Attachment VI Cost Sharing Model - the case of Norway
+
 ### 技術ブロック
 このブロックは豪州在住の [Lesley Arnold](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45986) が担当しているように見える。裏は取る必要があるだろう。
 #### 戦略経路4 データ Data [[本文](https://ggim.un.org/IGIF/documents/SP4-Data_10Jan2020_GLOBAL_CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP4-Appendices-26Feb2020-GLOBAL-CONSULTATION.pdf)]
+
+##### 本文
+
+##### 補遺
+
 #### 戦略経路5 イノベーション Innovation [本文] [補遺]
 #### 戦略経路6 規格 Standards [本文] [補遺]
 ### ひとブロック
