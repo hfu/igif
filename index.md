@@ -179,11 +179,56 @@
 #### 戦略経路4 データ Data [[本文](https://ggim.un.org/IGIF/documents/SP4-Data_10Jan2020_GLOBAL_CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP4-Appendices-26Feb2020-GLOBAL-CONSULTATION.pdf)]
 
 ##### 本文
+- 4.1 Introduction
+- 4.2 Context and Rationale
+- 4.3 Approach
+- 4.4 Elements
+  - 4.4.1 Data Themes
+  - 4.4.2 Custodianship, Acquisition and Management
+  - 4.4.3 Data Suppy Chains
+  - 4.4.4 Data Curation and Delivery
+- 4.5 Guiding Principles
+- 4.6 Actions
+  - 4.6.1 Data Framework
+  - 4.6.2 Data Inventory
+  - 4.6.3 Dataset Profiles
+  - 4.6.4 Data Gap Analysis
+  - 4.6.5 Data Theme Road Map
+  - 4.6.6 Data Capture
+  - 4.6.7 Data Acquisition Program
+  - 4.6.8 Data Custodianshio Policy and Guidelines
+  - 4.6.9 Data Governance
+  - 4.6.10 Data Management Plan
+  - 4.6.11 Maintained Metadata
+  - 4.6.12 Data Release
+  - 4.6.13 Data Storage and REtrieval Systems
+  - 4.6.14 Maintained Geodetic Infrastructure
+  - 4.6.15 Geospatial and Statistical Integration
+  - 4.6.16 Geocoding and Aggregation
+  - 4.6.17 Data Supply Chains
+  - 4.6.18 Data Interoperability
+- 4.7 Deliverables
+- 4.8 Outcome
+- 4.9 Resources
+- 4.10 References
 
 ##### 補遺
+- 4.1 Data Theme Description Template
+- 4.2 Data Inventory Questionnaire
+- 4.3 Dataset Profile Template
+- 4.4 Gap Analysis Matrix
+- 4.5 Data Theme Road Map Template
+- 4.6 Principles of a Data Custodianship Policy
+- 4.7 Data Governance Roles and Responsibilities
+- 4.8 Data Management Plan Elements
+- 4.9 Checklist for Creating Metadata
+- 4.10 Data Release Guidelines
+- 4.11 Guidance for Improving Geodetic Infrastructure
+- 4.12 Guidance for Geospatial and Statistical Integration
 
 #### 戦略経路5 イノベーション Innovation [本文] [補遺]
 #### 戦略経路6 規格 Standards [本文] [補遺]
+
 ### ひとブロック
 このブロックは英国在住の [John Kedar](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45987) が担当しているように見える。裏は取る必要があるだろう。
 #### 戦略経路7 パートナーシップ Partnerships [本文] [補遺]
