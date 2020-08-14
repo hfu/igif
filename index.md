@@ -226,14 +226,14 @@
 - 4.11 Guidance for Improving Geodetic Infrastructure
 - 4.12 Guidance for Geospatial and Statistical Integration
 
-#### 戦略経路5 イノベーション Innovation [本文] [補遺]
-#### 戦略経路6 規格 Standards [本文] [補遺]
+#### 戦略経路5 イノベーション Innovation [本文](https://ggim.un.org/IGIF/documents/SP5%20-%20Innovation%204Jul2020%20GLOBAL%20CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP5-Appendices%204Jul2020-GLOBAL-CONSULTATION.pdf)
+#### 戦略経路6 規格 Standards [本文](https://ggim.un.org/IGIF/documents/SP6-Standards-7Apr2020-GLOBAL-CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP6-Appendices-7Apr2020-GLOBAL-CONSULTATION.pdf)
 
 ### ひとブロック
 このブロックは英国在住の [John Kedar](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45987) が担当しているように見える。裏は取る必要があるだろう。
-#### 戦略経路7 パートナーシップ Partnerships [本文] [補遺]
-#### 戦略経路8 能力と教育 Capacity and Education [本文] [補遺]
-#### 戦略経路9 コミュニケーションとかかわり Communication and Engagement [本文] [補遺]
+#### 戦略経路7 パートナーシップ Partnerships [本文](https://ggim.un.org/IGIF/documents/SP7-%20Partnerships-21Feb2020-GLOBAL-CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP7-Appendices-21Feb2020-GLOBAL-CONSULTATION.pdf)
+#### 戦略経路8 能力と教育 Capacity and Education [本文](https://ggim.un.org/IGIF/documents/SP8-Capacity_and_Education_19May2020_GLOBAL_CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP8-Appendices_19May2020_GLOBAL_CONSULTATION.pdf)
+#### 戦略経路9 コミュニケーションとかかわり Communication and Engagement [本文](https://ggim.un.org/IGIF/documents/SP9-Communication-and-Engagement-29Feb2020-GLOBAL-CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP9-Appendices-29Feb2020-GLOBAL-CONSULTATION.pdf)
 
 ## 第三部
 第三部は国別行動計画
