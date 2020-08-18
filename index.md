@@ -3,7 +3,7 @@
 
 ## 第一部
 ### 戦略枠組にアーチをかける [[本文](https://ggim.un.org/meetings/GGIM-committee/8th-Session/documents/Part%201-IGIF-Overarching-Strategic-Framework-24July2018.pdf)]
-- エグゼクティブ・サマリ Executive Summary
+- 要旨 Executive Summary
 - 導入 Introduction
 - 変化の根拠 Case for Change
 - 文書の構造 Document Structure
