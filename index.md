@@ -73,7 +73,7 @@
 - 1.10 参考文献 References
 
 ##### 補遺
-- 1.1 Steering Committee Charter Example
+- 1.1 運営委員会の定款の例 Steering Committee Charter Example
 - 1.2 Strategic Alignment Template
 - 1.3 Guidance for Vision, Mission and Goal Statements
 - 1.4 Country-level Action Plan Template
@@ -105,10 +105,10 @@
   - 2.6.11 Sensitive Information
   - 2.6.12 Impact Assessment
   - 2.6.13 Compliance Strategy
-- 2.7 Deliverables
-- 2.8 Outcomes
-- 2.9 Resources
-- 2.10 References
+- 2.7 達成事項 Deliverables
+- 2.8 アウトカム Outcomes
+- 2.9 資源 Resources
+- 2.10 参考文献 References
 
 ##### 補遺
 - 2.1 一般的な法学用語 Common Legal Terms
@@ -151,10 +151,10 @@
   - 3.6.14 Strategic Opportunities
   - 3.6.15 Benefits Realization
   - 3.6.16 Communicate Benefits
-- 3.7 Deliverables
-- 3.8 Outcomes
-- 3.9 Resources
-- 3.10 References
+- 3.7 達成事項 Deliverables
+- 3.8 アウトカム Outcomes
+- 3.9 資源 Resources
+- 3.10 参考文献 References
 
 ##### 補遺
 - 3.1 Example of IGIF 'Current and Desired Future' Dual-response survey (forthcoming)
@@ -207,10 +207,10 @@
   - 4.6.16 Geocoding and Aggregation
   - 4.6.17 Data Supply Chains
   - 4.6.18 Data Interoperability
-- 4.7 Deliverables
-- 4.8 Outcome
-- 4.9 Resources
-- 4.10 References
+- 4.7 達成事項 Deliverables
+- 4.8 アウトカム Outcome
+- 4.9 資源 Resources
+- 4.10 参考文献 References
 
 ##### 補遺
 - 4.1 Data Theme Description Template
@@ -240,9 +240,24 @@
 
 ### ひとブロック
 このブロックは英国在住の [John Kedar](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45987) が担当しているように見える。裏は取る必要があるだろう。
+
 #### 戦略経路7 パートナーシップ Partnerships [本文](https://ggim.un.org/IGIF/documents/SP7-%20Partnerships-21Feb2020-GLOBAL-CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP7-Appendices-21Feb2020-GLOBAL-CONSULTATION.pdf)
+
+##### 本文
+
+##### 補遺
+
 #### 戦略経路8 能力と教育 Capacity and Education [本文](https://ggim.un.org/IGIF/documents/SP8-Capacity_and_Education_19May2020_GLOBAL_CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP8-Appendices_19May2020_GLOBAL_CONSULTATION.pdf)
+
+##### 本文
+
+##### 補遺
+
 #### 戦略経路9 コミュニケーションとかかわり Communication and Engagement [本文](https://ggim.un.org/IGIF/documents/SP9-Communication-and-Engagement-29Feb2020-GLOBAL-CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP9-Appendices-29Feb2020-GLOBAL-CONSULTATION.pdf)
+
+##### 本文
+
+##### 補遺
 
 ## 第三部
 第三部は国別行動計画
