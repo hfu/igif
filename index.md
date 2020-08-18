@@ -1,4 +1,4 @@
-# 統合地理空間情報枠組 [[編集](https://github.com/hfu/igif/edit/gh-pages/index.md)]
+# [統合地理空間情報枠組早わかり](https://hfu.github.io/igif) [[編集](https://github.com/hfu/igif/edit/gh-pages/index.md)]
 [統合地理空間情報枠組](https://ggim.un.org/IGIF/)は、世界銀行、国連統計部、英国、米国、豪州のプレイヤーが主導して作成した、国連 GGIM の成果文書。このページでは、2020年8月時点でアクセス可能な、コンサルテーション段階の文書へリンクしている。最終の文書は変更されることが予期される。
 
 ## 第一部
