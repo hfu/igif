@@ -4,7 +4,7 @@
 ## 第一部
 ### 戦略枠組にアーチをかける [[本文](https://ggim.un.org/meetings/GGIM-committee/8th-Session/documents/Part%201-IGIF-Overarching-Strategic-Framework-24July2018.pdf)]
 - エグゼクティブ・サマリ Executive Summary
-- イントロダクション Introduction
+- 導入 Introduction
 - 変化の根拠 Case for Change
 - 文書の構造 Document Structure
 - 統合地理空間情報枠組 Integrated Geospatial Information Framework
@@ -30,33 +30,33 @@
 
 ## 第二部
 #### パズルを解く [[本文](https://ggim.un.org/IGIF/documents/Solving%20the%20Puzzle%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)]
-1. Introduction
-2. Linkages to the NSDI
-3. Describing the Guide
-4. Validating the Guide
-5. How the Guide Will be Managed and Used
-6. Interrelated Actions
-7. Country-level Action Plans
-8. Benefits
-9. References
+1. 導入 Introduction
+2. NSDIとのつながり Linkages to the NSDI
+3. ガイドを記述する Describing the Guide
+4. ガイドを検証する Validating the Guide
+5. ガイドの管理・利用方法 How the Guide Will be Managed and Used
+6. 相互に関係した行動 Interrelated Actions
+7. 国別行動計画 Country-level Action Plans
+8. 利益 Benefits
+9. 参考文献 References
 
-このドキュメントは、内部的なルールを記述しているようだと認識しているところ。
+このドキュメントは、国別行動計画を含む IGIF の内部的なルールを記述しているようだと認識しているところ。つまり、サブスタンス上の詳細な記述はそれほどないのではないかと考えられる。
 
 ### 統治ブロック
 このブロックは米国在住の [Tim Trainor](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45985) が担当しているように見える。裏は取る必要があるだろう。
 #### 戦略経路1 統治と組織 Governance and Institutions [[本文](https://ggim.un.org/IGIF/documents/SP1%20-%20Governance%20and%20Institutions%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP1%20-%20Appendices%2013Dec2019%20GLOBAL%20CONSULTATION.pdf)]
 ##### 本文
-- 1.1 Introduction
-- 1.2 Context and Rationale
-- 1.3 Approach
-- 1.4 Elements
-  - 1.4.1 Governance Model
-  - 1.4.2 Leadership
-  - 1.4.3 Value Proposition
-  - 1.4.4 Institutional Arrangements
-- 1.5 Guiding Principles
-- 1.6 Actions
-  - 1.6.1 Governing Board
+- 1.1 導入 Introduction
+- 1.2 文脈と根拠 Context and Rationale
+- 1.3 取り組み方 Approach
+- 1.4 要素 Elements
+  - 1.4.1 統治モデル Governance Model
+  - 1.4.2 リーダーシップ Leadership
+  - 1.4.3 提供価値 Value Proposition
+  - 1.4.4 組織制度 Institutional Arrangements
+- 1.5 指導原理 Guiding Principles
+- 1.6 行動 Actions
+  - 1.6.1 統治 Governing Board
   - 1.6.2 Geospatial Coordination Unit
   - 1.6.3 Specialist Working Groups
   - 1.6.4 Governance Model
@@ -67,10 +67,10 @@
   - 1.6.9 Monitoring and Evaluation
   - 1.6.10 Success Indicators
   - 1.6.11 Value Proposition Statement
-- 1.7 Deliverables
-- 1.8 Outcomes
-- 1.9 Resources
-- 1.10 References
+- 1.7 達成事項 Deliverables
+- 1.8 アウトカム Outcomes
+- 1.9 資源 Resources
+- 1.10 参考文献 References
 
 ##### 補遺
 - 1.1 Steering Committee Charter Example
@@ -82,16 +82,16 @@
 #### 戦略経路2 政策と法律 Policy and Legal [[本文](https://ggim.un.org/IGIF/documents/SP2-Policy-and-Legal-23Feb2020-GLOBAL-CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP2-%20Appendices-23Feb2020-GLOBAL-CONSULTATION.pdf)]
 
 ##### 本文
-- 2.1 Introduction
-- 2.2 Context and Rationale
-- 2.3 Approach
-- 2.4 Elements
+- 2.1 導入 Introduction
+- 2.2 文脈と根拠 Context and Rationale
+- 2.3 取り組み方 Approach
+- 2.4 要素 Elements
   - 2.4.1 Legislation
   - 2.4.2 Policies, Norms and Guides
   - 2.4.3 Data Protection, Licensing and Sharing
   - 2.4.4 Governance and Accountability
-- 2.5 Guiding Principles
-- 2.6 Actions
+- 2.5 指導原理 Guiding Principles
+- 2.6 行動 Actions
   - 2.6.1 Review Group
   - 2.6.2 Review and Assessment
   - 2.6.3 Gaps and Opportunities Analysis
@@ -111,7 +111,7 @@
 - 2.10 References
 
 ##### 補遺
-- 2.1 Common Legal Terms
+- 2.1 一般的な法学用語 Common Legal Terms
 - 2.2 Review and Assessment - Considerations
 - 2.3 Review and Assessment - Questions
 - 2.4 Use Case - An Example
@@ -125,16 +125,16 @@
 #### 戦略経路3 財務 Financial [[本文](https://ggim.un.org/IGIF/documents/SP3-Financial-19Jun2020-GLOBAL-CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP3-Appendices-19Jun2020-GLOBAL-CONSULTATION.pdf)]
 
 ##### 本文
-- 3.1 Introduction
-- 3.2 Context and Rationale
-- 3.3 Approach
-- 3.4 Elements
+- 3.1 導入 Introduction
+- 3.2 文脈と根拠 Context and Rationale
+- 3.3 取り組み方 Approach
+- 3.4 要素 Elements
   - 3.4.1 Business Model
   - 3.4.2 Opportunities
   - 3.4.3 Investment
   - 3.4.5 Benefits Realization
-- 3.5 Guiding Principles
-- 3.6 Actions
+- 3.5 指導原理 Guiding Principles
+- 3.6 行動 Actions
   - 3.6.1 Financial Governance
   - 3.6.2 Financial Accountability
   - 3.6.3 Current Operating Environment
@@ -179,16 +179,16 @@
 #### 戦略経路4 データ Data [[本文](https://ggim.un.org/IGIF/documents/SP4-Data_10Jan2020_GLOBAL_CONSULTATION.pdf)] [[補遺](https://ggim.un.org/IGIF/documents/SP4-Appendices-26Feb2020-GLOBAL-CONSULTATION.pdf)]
 
 ##### 本文
-- 4.1 Introduction
-- 4.2 Context and Rationale
-- 4.3 Approach
-- 4.4 Elements
-  - 4.4.1 Data Themes
+- 4.1 導入 Introduction
+- 4.2 文脈と根拠 Context and Rationale
+- 4.3 取り組み方 Approach
+- 4.4 要素 Elements
+  - 4.4.1 主題 Data Themes
   - 4.4.2 Custodianship, Acquisition and Management
   - 4.4.3 Data Suppy Chains
   - 4.4.4 Data Curation and Delivery
-- 4.5 Guiding Principles
-- 4.6 Actions
+- 4.5 指導原理 Guiding Principles
+- 4.6 行動 Actions
   - 4.6.1 Data Framework
   - 4.6.2 Data Inventory
   - 4.6.3 Dataset Profiles
@@ -227,7 +227,16 @@
 - 4.12 Guidance for Geospatial and Statistical Integration
 
 #### 戦略経路5 イノベーション Innovation [本文](https://ggim.un.org/IGIF/documents/SP5%20-%20Innovation%204Jul2020%20GLOBAL%20CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP5-Appendices%204Jul2020-GLOBAL-CONSULTATION.pdf)
+
+##### 本文
+
+##### 補遺
+
 #### 戦略経路6 規格 Standards [本文](https://ggim.un.org/IGIF/documents/SP6-Standards-7Apr2020-GLOBAL-CONSULTATION.pdf) [補遺](https://ggim.un.org/IGIF/documents/SP6-Appendices-7Apr2020-GLOBAL-CONSULTATION.pdf)
+
+##### 本文
+
+##### 補遺
 
 ### ひとブロック
 このブロックは英国在住の [John Kedar](https://www.unggim6hlf.org/unggim6hlf/contenttabs/?ctid=3103#download-45987) が担当しているように見える。裏は取る必要があるだろう。
