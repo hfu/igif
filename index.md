@@ -57,16 +57,16 @@
 - 1.5 指導原理 Guiding Principles
 - 1.6 行動 Actions
   - 1.6.1 統治 Governing Board
-  - 1.6.2 Geospatial Coordination Unit
-  - 1.6.3 Specialist Working Groups
-  - 1.6.4 Governance Model
-  - 1.6.5 Strategic Alignment Study
-  - 1.6.6 Geospatial Information Management
-  - 1.6.7 Change Strategy
-  - 1.6.8 Country-level Action Plan
-  - 1.6.9 Monitoring and Evaluation
-  - 1.6.10 Success Indicators
-  - 1.6.11 Value Proposition Statement
+  - 1.6.2 地理空間調整ユニット Geospatial Coordination Unit
+  - 1.6.3 専門家ワーキンググループ Specialist Working Groups
+  - 1.6.4 統治モデル Governance Model
+  - 1.6.5 戦略的調整についての研究 Strategic Alignment Study
+  - 1.6.6 地理空間情報管理 Geospatial Information Management
+  - 1.6.7 変化戦略 Change Strategy
+  - 1.6.8 国別アクションプラン Country-level Action Plan
+  - 1.6.9 モニタリングと評価 Monitoring and Evaluation
+  - 1.6.10 成功のインディケータ Success Indicators
+  - 1.6.11 バリュー・プロポジション・ステートメント Value Proposition Statement
 - 1.7 達成事項 Deliverables
 - 1.8 アウトカム Outcomes
 - 1.9 資源 Resources
